@@ -1,0 +1,1 @@
+This is a test file. This url https://www.google.com and this url http://example.com are going to be removed and replaced with NUL.
